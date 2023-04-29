@@ -1,5 +1,5 @@
 function howManyElements(data) {
-  //your code here!
+  return data.length
 }
 
 console.log(howManyElements([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])); // 10
